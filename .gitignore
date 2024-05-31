@@ -1,0 +1,10 @@
+__pycache__
+.ipynb_checkpoints
+.virtual_documents
+book_genre using DL.ipynb
+book_genre_prediction_bn.joblib
+book_genre_prediction_multinomial.joblib
+book_genre_prediction_on_decsription.ipynb
+.bookprediction
+models
+encoder_vectorizer
