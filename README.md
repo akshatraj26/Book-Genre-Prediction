@@ -66,11 +66,7 @@ cd book-genre-prediction
 
 2. Prepare your dataset and place it in the project directory.
 
-3. Run the training script:
 
-```bash
-python train.py
-```
 
 The script will train both Naive Bayes and XGBoost models and save the trained models to disk.
 
